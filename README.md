@@ -5,4 +5,9 @@ These are some sample Cypress scripts that I created in order to show proficienc
 
 When combined with [Github Actions](https://docs.github.com/en/actions), Cypress is a very powerful tool for Continuous Integration.  
 
-View test case spreadsheet [here](https://docs.google.com/spreadsheets/d/1lUFYMenwuaPmS88RwHzzYzz1dM2Ear_ZwzQkk6XgFx4/edit?usp=sharing).
+## View test case spreadsheet [here](https://docs.google.com/spreadsheets/d/1lUFYMenwuaPmS88RwHzzYzz1dM2Ear_ZwzQkk6XgFx4/edit?usp=sharing).
+
+
+[Installing Cypress](https://docs.cypress.io/guides/getting-started/installing-cypress#What-you-ll-learn)
+
+[Opening Cypress](https://docs.cypress.io/guides/getting-started/opening-the-app#What-you-ll-learn)
